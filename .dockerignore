@@ -3,7 +3,5 @@ __pycache__/
 *.pyc
 .git/
 .gitignore
-README.md
-*.md
 .pytest_cache/
 tasks.db
